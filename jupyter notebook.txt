@@ -1,0 +1,15 @@
+Installation procedure of jupyter notebook
+
+
+1.'pip install notebook' in the folder where the project.ipynb file exists.
+
+2. by using command 'jupyter notebook' launch jupyter notebook
+
+3.by default it  will open in the default web browser, if not paste the link obtained in the command prompt in the browser
+
+4. click on project.ipyn,it will open in new tab
+
+5.run cell by cell and check output
+python -m notebook
+
+pip3 install --upgrade jupyter_core jupyter_client
